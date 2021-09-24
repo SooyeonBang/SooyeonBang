@@ -1,11 +1,14 @@
 <div align="center">
-  <h2> Hi there 👋 </h2>
+  <h2> Welcome👋 </h2>
 
-<h5> 🌱 I’m currently learning : Processing / Unity / HTML </h5>
+ 
+  
+<h5> 🌱 I’m currently learning : Processing / Unity / HTML / 👩‍🎨  </h5>
 
 
 <img src="asset/10.gif" alt="곰돌이" width="150">
-
+  
+<br>
 
 
   
