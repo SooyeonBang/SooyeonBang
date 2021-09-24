@@ -1,15 +1,15 @@
 
 
 <div align="center">
-  <h3> Hi there 👋 </h3>
-<hr/>
+  <h2> Hi there 👋 </h2>
+
+<h5> 🌱 I’m currently learning : Processing / Unity / HTML </h5>
+
+
+<img src="asset/10.gif" alt="곰돌이" width="150">
 
 
 
-<img src="asset/10.gif" alt="곰돌이" width="200">
-
-
-🌱 I’m currently learning : Processing / Unity / HTML
   
   
   </div>
