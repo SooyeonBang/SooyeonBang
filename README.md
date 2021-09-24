@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<img src="asset/10.gif" alt="곰돌이" width="200">
+
+
 <!--
 **SooyeonBang/SooyeonBang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
