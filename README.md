@@ -3,7 +3,7 @@
 
  
   
-<h5> 🌱 I’m currently learning: JavaScript / React / UnrealEngine /Unity </h5>
+<h5> 🌱 I’m currently learning: JavaScript / React / Unreal Engine / Unity </h5>
   <h5> TRY TO LEARN : ML,DL </h5>
 <img src="asset/10.gif" alt="곰돌이" width="150">
   
